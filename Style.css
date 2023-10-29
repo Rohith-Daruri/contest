@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    background: #1F1F1F;
+}
+nav{
+    /* position: fixed; */
+    width: 100vw;
+}
+#name{
+color: #FFF;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 700;
+padding: 59px 27px;
+box-sizing: border-box;
+}
+input{
+margin-inline: 10px;
+width: 597px;
+height: 53px;
+border-radius: 15px;
+padding: 14px 494px 11px 18px;
+background: #262626;
+box-sizing: border-box;
+border: none;
+}
+::placeholder{
+color: rgba(255, 255, 255, 0.20);
+font-size: 24px;
+font-weight: 600;
+}
+button{
+margin-inline: 10px;
+width: 120px;
+height: 53px;
+border-radius: 15px;
+background: #262626;
+color: #FFF;
+font-family: Poppins;
+font-size: 22px;
+font-weight: 600;
+border: none;
+}
+#first{
+margin-left: 55px;
+margin-right: 55px;
+height: 588px;
+border-radius: 50px;
+background: #262626;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+position: relative;
+}
+#eg1{
+width: 335px;
+height: 53px;
+padding: 41px 46px;
+box-sizing: border-box;
+color: #FFF;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+}
+#list1{
+list-style-type: none;
+}
+#list1>li{
+width: 846px;
+height: 53px;
+color: #C4C4C4;
+font-family: Poppins;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-bottom: 89PX;
+}
+.icon1{
+display: inline-block;
+width: 105px;
+height: 105px;
+background-color: #FECB03;
+border-radius: 50%;
+padding: 29px 26px 29px 26px;
+box-sizing: border-box;
+list-style-type: none;
+margin-right: 20px;
+margin-bottom: 29;
+}
+#image{
+position: absolute;
+background-color: #FECB03;
+border-radius: 50%;
+width: 291px;
+height: 291px;
+padding: 4.547px;
+top: 94px;
+right: 46px;
+}
+#rect{
+width: 260px;
+height:107px;
+background-color: #FECB03;
+color: #262626;
+font-family: Poppins;
+font-size: 35px;
+font-weight: 600;
+padding: 27px 19px 27px 36px;
+box-sizing: border-box;
+border-radius: 50px;
+position: absolute;
+bottom:52px;
+right: 52px;
+}
